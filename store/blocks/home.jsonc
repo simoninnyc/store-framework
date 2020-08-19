@@ -5,12 +5,13 @@
       "info-card#button-left",
       "info-card#button-right",
       "flex-layout.row",
-      "shelf"
+      "shelf",
+      "slider-layout#home"
     ]
   },
   "rich-text": {
     "props": {
-      "text": "**Hello, World!**",
+      "text": "**Hello, World!!**",
       "textPosition": "RIGHT"
     }
   },
